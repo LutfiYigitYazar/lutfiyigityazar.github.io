@@ -4,7 +4,7 @@ void computeHomeValue (void);
 
 int main( void )
 {
-    computeHomeValue();
+  computeHomeValue();
 } 
 
 void computeHomeValue (void) {
